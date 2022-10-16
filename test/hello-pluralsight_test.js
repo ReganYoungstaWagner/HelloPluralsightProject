@@ -5,7 +5,7 @@ var jsdom = require('jsdom'),
 
 var { JSDOM } = jsdom;
 
-describe('Your HTML Page', function() {
+describe('My Demo Page', function() {
   var window;
 
   before(function() {
